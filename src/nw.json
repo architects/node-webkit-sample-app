@@ -1,0 +1,8 @@
+{
+  "name": "architects-app",
+  "main": "index.html",
+  "version": "0.0.1",
+  "window":{
+    "toolbar": false
+  }
+}
