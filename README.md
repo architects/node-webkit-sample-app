@@ -1,14 +1,11 @@
-# a node.js template
+# A starter template for node-webkit apps 
 
 Using grunt, with coffeescript, less, jade.
 
-### Setting up Github Pages Deployment
+### To build your app
 
-- add a deploy folder to your project
-- .gitignore it
-- clone another copy of your repository into the deploy folder
-- `cd deploy && git checkout --orphan gh-pages && git rm -rf .`
+run: `grunt package` 
 
-Deploy using `grunt deploy`
+it will store a mac app in the webkit folder
 
 
